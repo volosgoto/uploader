@@ -15,7 +15,7 @@
 <h2>Загрузка файла</h2>
     <form action="" enctype="multipart/form-data" method="post">
         <p>Загрузите ваши фотографии на сервер</p>
-        <input type="hidden" name="MAX_FILE_SIZE" value="800000" />  
+        <input type="hidden" name="MAX_FILE_SIZE" value="4000000" />  
         <p><input type="file" name="photo" value="Выбрать">
         <input type="submit" value="Отправить"></p>
     </form>
